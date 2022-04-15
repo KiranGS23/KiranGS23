@@ -5,7 +5,7 @@
 ▪▪▪I'm an aspiring student interested in Data Analytics and Digital Marketing 
 I'm currently learning the tools needed for data analytics 
 
-## Skills
+### Skills
 HTML CSS
 Python
 Excel
